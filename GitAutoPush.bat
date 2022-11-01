@@ -5,7 +5,7 @@
 	cd C:\Users\sajid\Desktop\automatic_push_code_to_github\test2
 	
 	::Pull any external changes (maybe you deleted a file from your repo?)
-	git pull origin master
+	::git pull origin master
 	
 	::Add all files in the directory
 	git add .
